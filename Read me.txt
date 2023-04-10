@@ -1,0 +1,29 @@
+Climate Change Analysis
+
+This repository contains code and data used for analyzing and visualizing climate change trends over the past century. The project includes data cleaning and preprocessing, exploratory data analysis, and the creation of interactive visualizations using Python and various libraries such as Pandas, Matplotlib, and Plotly.
+Background
+
+Climate change is a global issue that has severe implications for our environment and society. The purpose of this project is to analyze climate data and raise awareness about the severity of climate change. By visualizing historical climate data and trends, we can gain insights into the effects of climate change on our planet.
+Data
+
+The data used for this project is sourced from NASA's Global Climate Change website. The dataset includes monthly global temperature anomalies from 1880 to 2020.
+Methodology
+
+The project includes the following steps:
+
+    Data cleaning and preprocessing
+    Exploratory data analysis
+    Creation of interactive visualizations
+
+The data cleaning and preprocessing step involves handling missing values and converting the data into a suitable format for analysis. The exploratory data analysis step involves visualizing and analyzing the data to gain insights into climate trends over time. The creation of interactive visualizations involves using Plotly to create interactive plots that allow users to explore the data in more detail.
+Results
+
+The results of the project include interactive visualizations that allow users to explore historical climate data and trends. The visualizations include:
+
+    Global temperature anomalies over time
+    Temperature anomalies by hemisphere
+    Temperature anomalies by season
+
+Conclusion
+
+The project provides insights into the severity of climate change and its effects on the environment. By visualizing historical climate data and trends, we can gain a better understanding of the long-term impacts of climate change.
